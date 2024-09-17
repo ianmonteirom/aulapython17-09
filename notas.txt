@@ -1,0 +1,8 @@
+2101254,Benicio Pires,3.6,10.0,8.5,7.8
+2101624,Bruna Goncalves,9.5,8.0,6.0,5.5
+2101533,Danilo Jesus,7.8,8.7,6.5,9.0
+2101969,Ana Carolina Silva,8.1,7.3,9.2,8.8
+2101779,Lavinia Duarte,9.0,8.0,8.5,9
+2130233,Matheus Silva,3.0,4.0,1.5,2.8
+2185321,Marcela Vieira,5.0,6.0,7.5,0.8
+3210023,Kleber Destro,7.0,2.0,1.5,3.8
