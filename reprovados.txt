@@ -1,3 +1,3 @@
-2130233,Matheus Silva,2.825
-2185321,Marcela Vieira,4.825
-3210023,Kleber Destro,3.575
+2101343,Larissa Oliveira,4.3
+2101445,Felipe Souza,5.375
+2101577,Amanda Mendes,4.375

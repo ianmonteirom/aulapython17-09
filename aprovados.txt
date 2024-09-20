@@ -2,4 +2,45 @@
 2101624,Bruna Goncalves,7.25
 2101533,Danilo Jesus,8.0
 2101969,Ana Carolina Silva,8.35
-2101779,Lavinia Duarte,8.625
+2101779,Lavinia Duarte,8.675
+2102641,Paulo da Conceicao,8.225
+2101346,Marcos Vinicius Sales,8.3
+2102630,Maria Vitoria Jesus,9.25
+2102562,Sarah Rodrigues,7.425
+2101199,Vitor Hugo Farias,7.55
+2102356,Mariana Alves,8.75
+2101780,Carlos Oliveira,7.85
+2101985,Eduardo Silva,8.025
+2102077,Laura Fernandes,8.525
+2102241,Isabel Santos,9.125
+2102721,Rodrigo Barbosa,8.65
+2102563,Vinicius Lima,8.425
+2101422,Gabriela Oliveira,8.25
+2102810,Lucas Mendes,7.0
+2102457,Helena Ribeiro,9.4
+2101999,Rafael Ferreira,8.175
+2102088,Ana Beatriz Azevedo,8.174999999999999
+2101556,Mateus Fernandes,8.05
+2102778,Leticia Nunes,8.95
+2101320,Julia Ribeiro,7.925000000000001
+2101699,Marcos Carvalho,7.7
+2101833,Sophia Rocha,9.35
+2102122,Matheus Cardoso,8.0
+2101799,Luiza Mendonca,8.5
+2101544,Caua Oliveira,8.05
+2101345,Vitoria Souza,9.175
+2101477,Yasmin Ribeiro,8.15
+2102221,Joao Oliveira,8.4
+2102388,Luana Azevedo,7.975
+2101900,Renan Silva,7.425
+2101432,Gustavo Carvalho,7.85
+2101622,Nina Azevedo,9.2
+2101955,Pedro Rocha,7.875
+2101777,Mariana Costa,8.325
+2102255,Felipe Oliveira,8.975
+2102341,Eloa Pereira,7.825
+2101766,Rodrigo Ribeiro,8.25
+2102890,Livia Sousa,8.9
+2101677,Guilherme Castro,8.1
+2102155,Bianca Carvalho,8.025
+2102099,Sofia Ferreira,9.175
